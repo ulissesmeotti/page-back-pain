@@ -10,3 +10,6 @@ TypeScript
 React (TSX)
 CSS for styling
 This repository serves as a simple and functional example of a React-based landing page.
+
+![image](https://github.com/user-attachments/assets/bb9fb59d-efa9-48e7-a551-a03667724bae)
+To run the project, download the zip, npm install and then npm run dev.
